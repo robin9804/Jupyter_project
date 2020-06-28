@@ -1,5 +1,5 @@
-# Jupyter_project
-Jupyter notebook project
+# My_project
+Personal project using python, C++, C# ,etc.
 
 
 ## Graphs
@@ -16,3 +16,7 @@ C# project with JWY
 
 ## Blender
 depthmap extraction by blender
+
+
+### Contact
+faller825@khu.ac.kr
